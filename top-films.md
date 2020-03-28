@@ -1,4 +1,6 @@
 ## Белый список
+1.  [__Бойцовский клуб__](https://rezka.ag/films/drama/787-boycovskiy-klub-1999.html)  
+[![](https://static.hdrezka.ac/i/2013/11/30/m33c30ddfb881gn13z89a.jpg)](https://rezka.ag/films/drama/787-boycovskiy-klub-1999.html)
 1.  [__Марсианин__](https://rezka.ag/films/fiction/11116-marsianin-2015.html)  
 [![](https://static.hdrezka.ac/i/2015/10/29/z13622384b3efwd91g79k.jpg)](https://rezka.ag/films/fiction/11116-marsianin-2015.html)
 1.  [__В метре друг от друга__](https://rezka.ag/films/drama/30847-v-metre-drug-ot-druga-2019.html)  
@@ -88,7 +90,7 @@
 1. [__Бешеные псы__](https://rezka.ag/films/thriller/1361-beshenye-psy-1992.html)  
 [![](https://static.hdrezka.ac/i/2014/4/8/bf5f80cea9d44ik37m84r.jpg)](https://rezka.ag/films/thriller/1361-beshenye-psy-1992.html)
 1. [__Святые из Бундока / Святые из трущоб__](https://rezka.ag/films/action/6470-svyatye-iz-bundoka-1999.html)  
-[![](https://static.hdrezka.ac/i/2014/12/19/mfaa213109adelp24r10n.jpg)](https://rezka.ag/films/action/6470-svyatye-iz-bundoka-1999.html)  
+[![](https://static.hdrezka.ac/i/2014/12/19/mfaa213109adelp24r10n.jpg)](https://rezka.ag/films/action/6470-svyatye-iz-bundoka-1999.html) 
 1. [__Бесславные ублюдки__](https://rezka.ag/films/action/3079-besslavnye-ublyudki-2009.html)  
 [![](https://static.hdrezka.ac/i/2014/12/19/o42725cb6eb86fr95q62y.jpg)](https://rezka.ag/films/action/3079-besslavnye-ublyudki-2009.html)
 1. [__Джанго освобожденный__](https://rezka.ag/films/western/15-dzhango-osvobozhdennyy-2012.html)  
