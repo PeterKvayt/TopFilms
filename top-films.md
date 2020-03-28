@@ -1,4 +1,7 @@
+
 ## Белый список
+1.  [__Король говорит__](https://rezka.ag/films/drama/957-korol-govorit-2010.html)  
+[![](https://static.hdrezka.ac/i/2014/1/16/z85ec1a5f57f2mk50o55t.jpg)](https://rezka.ag/films/drama/957-korol-govorit-2010.html)
 1.  [__Бойцовский клуб__](https://rezka.ag/films/drama/787-boycovskiy-klub-1999.html)  
 [![](https://static.hdrezka.ac/i/2013/11/30/m33c30ddfb881gn13z89a.jpg)](https://rezka.ag/films/drama/787-boycovskiy-klub-1999.html)
 1.  [__Марсианин__](https://rezka.ag/films/fiction/11116-marsianin-2015.html)  
