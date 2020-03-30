@@ -4,7 +4,9 @@
 [Лондонские каникулы](https://rezka.ag/films/drama/10758-londonskie-kanikuly.html)  
 
 ## Белый список
-1.  [Человек, который познал бесконечность](https://rezka.ag/films/drama/14116-chelovek-kotoryy-poznal-beskonechnost.html)  
+1.  [__Богемская рапсодия__](https://rezka.ag/films/drama/28929-bogemskaya-rapsodiya-2018.html)  
+[![](https://static.hdrezka.ac/i/2018/11/5/sb35847962a0bgw75p30x.jpg)](https://rezka.ag/films/drama/28929-bogemskaya-rapsodiya-2018.html)
+1.  [__Человек, который познал бесконечность__](https://rezka.ag/films/drama/14116-chelovek-kotoryy-poznal-beskonechnost.html)  
 [![](https://static.hdrezka.ac/i/2016/5/15/a31dce317bcb9ur70d49o.jpg)](https://rezka.ag/films/drama/14116-chelovek-kotoryy-poznal-beskonechnost.html)
 1.  [__Социальная сеть__](https://rezka.ag/films/drama/4648-socialnaya-set-2010.html)  
 [![](https://static.hdrezka.ac/i/2014/12/19/h6d6fb8f901a1cn17c31t.jpg)](https://rezka.ag/films/drama/4648-socialnaya-set-2010.html)
