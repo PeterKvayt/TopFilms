@@ -1,0 +1,4 @@
+var categories = [
+  'drama',
+  'documentary'
+]
