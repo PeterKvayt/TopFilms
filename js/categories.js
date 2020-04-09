@@ -1,4 +1,7 @@
 var categories = [
   'drama',
-  'documentary'
+  'documentary',
+  'fiction',
+  'biographical',
+  'action'
 ]
