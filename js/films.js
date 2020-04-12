@@ -61,6 +61,36 @@ let films = [
     category = categories[4]
   ),
   new Film(
+    name = 'Ямакаси: Свобода в движении',
+    link = 'https://rezka.ag/films/action/7414-yamakasi-svoboda-v-dvizhenii-2001.html',
+    description = '',
+    category = categories[4]
+  ),
+  new Film(
+    name = 'Билли Эллиот',
+    link = 'https://rezka.ag/films/drama/1015-billi-elliot-2000.html',
+    description = '',
+    category = categories[0]
+  ),
+  new Film(
+    name = 'Пираты Силиконовой Долины',
+    link = 'https://rezka.ag/films/biographical/7147-piraty-silikonovoy-doliny-1999.html',
+    description = '',
+    category = categories[3]
+  ),
+  new Film(
+    name = 'В погоне за счастьем',
+    link = 'https://rezka.ag/films/biographical/826-v-pogone-za-schastem-2006.html',
+    description = '',
+    category = categories[3]
+  ),
+  new Film(
+    name = 'Не/смотря ни на что',
+    link = 'https://rezka.ag/films/comedy/23479-ne-smotrya-ni-na-chto.html',
+    description = '',
+    category = categories[5]
+  ),
+  new Film(
     name = '',
     link = '',
     description = '',

@@ -3,5 +3,6 @@ var categories = [
   'documentary',
   'fiction',
   'biographical',
-  'action'
+  'action',
+  'comedy'
 ]
