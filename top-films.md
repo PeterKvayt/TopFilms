@@ -4,6 +4,10 @@
 [Лондонские каникулы](https://rezka.ag/films/drama/10758-londonskie-kanikuly.html)  
 
 ## Белый список
+1.  [__По соображениям совести__](https://rezka.ag/films/drama/22757-po-soobrazheniyam-sovesti.html)  
+1.  [__Авиатор__](https://rezka.ag/films/drama/3220-aviator-2004.html)  
+1.  [__Гангстер__](https://goblins-online.ru/kriminal/2188-gangster-goblin.html)  
+1.  [__Игра на понижение__](https://rezka.ag/films/biographical/11522-igra-na-ponizhenie.html)  
 1.  +[__Сенна__](https://rezka.ag/films/documentary/5967-senna-2010.html)  
 [![](https://static.hdrezka.ac/i/2014/12/19/uc7958f574c0dzx60m90a.jpg)](https://rezka.ag/films/documentary/5967-senna-2010.html)
 1.  +[__Богемская рапсодия__](https://rezka.ag/films/drama/28929-bogemskaya-rapsodiya-2018.html)  
