@@ -4,6 +4,7 @@
 [Лондонские каникулы](https://rezka.ag/films/drama/10758-londonskie-kanikuly.html)  
 
 ## Белый список
+1.  [__Годость и предубеждение__](https://rezka.ag/films/drama/3560-gordost-i-predubezhdenie-2005.html)  
 1.  [__По соображениям совести__](https://rezka.ag/films/drama/22757-po-soobrazheniyam-sovesti.html)  
 1.  [__Авиатор__](https://rezka.ag/films/drama/3220-aviator-2004.html)  
 1.  [__Гангстер__](https://goblins-online.ru/kriminal/2188-gangster-goblin.html)  
@@ -64,7 +65,6 @@
 [![](https://static.hdrezka.ac/i/2013/12/6/ed6e986f0dcd8uw87u89v.jpg)](https://rezka.ag/films/biographical/812-igry-razuma-2001.html)
 1. [__Отступники__](https://rezka.ag/films/detective/824-otstupniki-2006.html)  
 [![](https://static.hdrezka.ac/i/2013/12/7/nfc09e70e56a2qz79a35p.jpg)](https://rezka.ag/films/detective/824-otstupniki-2006.html)
-1. Пианист?
 1. [__Остров проклятых__](https://rezka.ag/films/drama/766-ostrov-proklyatyh-2009.html)  
 [![](https://static.hdrezka.ac/i/2013/11/24/h801ebfb226c3os78s66v.jpg)](https://rezka.ag/films/drama/766-ostrov-proklyatyh-2009.html)
 1. [__Общество мертвых поэтов__](https://rezka.ag/films/drama/1250-obschestvo-mertvyh-poetov-1989.html)  
@@ -94,6 +94,7 @@
 [![](https://static.hdrezka.ac/i/2019/12/23/o29053f5aa27ari48l52q.jpg)](https://rezka.ag/films/comedy/32831-krolik-dzhodzho-2019.html)
 
 ## Черный список
+1. [__Джентельмены__](https://rezka.ag/films/action/33026-dzhentlmeny-2020.html)  
 1. [__Большой куш__](https://rezka.ag/films/crime/762-bolshoy-kush-2000.html)  
 [![](https://static.hdrezka.ac/i/2013/11/24/ocdaec98175f0em52f25z.jpg)](https://rezka.ag/films/crime/762-bolshoy-kush-2000.html)
 1. [__Карты, деньги и два ствола 2__](https://rezka.ag/series/drama/20250-karty-dengi-i-dva-stvola2.html)  
