@@ -6,6 +6,8 @@
 [Лондонские каникулы](https://rezka.ag/films/drama/10758-londonskie-kanikuly.html)  
 
 ## Белый список
+1.  [__X+Y__](https://rezka.ag/films/drama/17976-xy-2014.html)
+1.  [__Пеле: Рождение легенды__](https://rezka.ag/films/drama/14773-pele-rozhdenie-legendy.html)
 1.  [__Годость и предубеждение__](https://rezka.ag/films/drama/3560-gordost-i-predubezhdenie-2005.html)  
 1.  [__По соображениям совести__](https://rezka.ag/films/drama/22757-po-soobrazheniyam-sovesti.html)  
 1.  [__Авиатор__](https://rezka.ag/films/drama/3220-aviator-2004.html)  
