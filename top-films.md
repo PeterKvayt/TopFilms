@@ -6,6 +6,7 @@
 [Лондонские каникулы](https://rezka.ag/films/drama/10758-londonskie-kanikuly.html)  
 
 ## Белый список
+1.  [__Моя Девочка__](https://rezka.ag/films/drama/14867-moya-devochka-1991.html)
 1.  [__Игра в имитацию__](https://rezka.ag/films/thriller/7755-igra-v-imitaciyu-2014.html)
 1.  [__X+Y__](https://rezka.ag/films/drama/17976-xy-2014.html)
 1.  [__Пеле: Рождение легенды__](https://rezka.ag/films/drama/14773-pele-rozhdenie-legendy.html)
