@@ -6,6 +6,7 @@
 [Лондонские каникулы](https://rezka.ag/films/drama/10758-londonskie-kanikuly.html)  
 
 ## Белый список
+1.  [__Место встречи / The place 2017__]
 1.  [__Бойфренд из будущего__](https://rezka.ag/films/fiction/917-boyfrend-iz-buduschego-2013.html)
 1.  [__Три идиота__](https://rezka.ag/films/drama/1091-tri-idiota-2009.html)
 1.  [__Звездочки на земле__](https://rezka.ag/films/drama/1032-zvezdochki-na-zemle-2007.html)
