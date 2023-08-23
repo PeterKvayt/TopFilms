@@ -6,7 +6,6 @@
 [Лондонские каникулы](https://rezka.ag/films/drama/10758-londonskie-kanikuly.html)  
 
 ## Белый список
-1.  __Выстрел в пустоту / Shot calller__
 1.  __Место встречи / The place 2017__
 1.  [__Бойфренд из будущего__](https://rezka.ag/films/fiction/917-boyfrend-iz-buduschego-2013.html)
 1.  [__Три идиота__](https://rezka.ag/films/drama/1091-tri-idiota-2009.html)
@@ -85,4 +84,5 @@
 1.  [__Рок-н-рольщик__](https://rezka.ag/films/action/1497-rok-n-rolschik-2008.html)  
 1.  [__Револьвер__](https://rezka.ag/films/detective/1567-revolver-2005.html)  
 1.  [__Брат__](https://rezka.ag/films/action/1180-brat-1997.html)  
-1.  [__Брат 2__](https://rezka.ag/films/action/1181-brat-2-2000.html)  
+1.  [__Брат 2__](https://rezka.ag/films/action/1181-brat-2-2000.html)
+2.  __Выстрел в пустоту / Shot calller__
